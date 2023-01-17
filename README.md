@@ -12,9 +12,9 @@ template project structure for TIA Portal Projects managed via github
     * a, b, c, d, e, f
   * pairs matched as follows:
     * a to b, c to d, e to f
-  * parts added to buffer as user receives
   * ids assigned to:
     * a, c, and e
+  * parts added to buffer as user receives
   * if match to last part is received:
     * operator assembles
     * id applied to assembly
